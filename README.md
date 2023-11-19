@@ -6,20 +6,26 @@ I'm a Computer Science student at <a href="https://www.inf.elte.hu/en/" rel="nof
 <hr>
 <h2>🚀 Recent projects</h2>
 <ul>
-  <li></li>
-  <li></li>
+  <li>
+    <a href="https://github.com/dancs-kornel/rubiks-table"><code>Rubik's Table</code></a> - a Java-based program that tasks players with solving a two-dimensional version of the  Rubik's Cube
+  </li>
+  <li>
+    <a href="https://github.com/dancs-kornel/the-cartographer"><code>The Cartographer</code></a> - Position terrain map elements on a grid, aim to fulfill missions and maximize the final score
+  </li>
 </ul>
 <hr>
 <h2>🌱 Currently learning</h2>
 <ul>
-  <li></li>
-  <li></li>
+  <li>
+    <a href="https://www.sketch.com" rel="nofollow"><code>Sketch</code></a> - An app for UI/UX designers to create and prototype with
+  </li>
 </ul>
 <hr>
 <h2>📬 Reach out!</h2>
 <ul>
-  <li></li>
-  <li></li>
+  <li>
+    <code>e-mail</code> - <a href="mailto:dancs.kornel0321@gmail.com">dancs.kornel0321@gmail.com</a>
+  </li>
 </ul>
 
 <!--
