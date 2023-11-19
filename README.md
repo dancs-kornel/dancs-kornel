@@ -10,7 +10,7 @@ I'm a Computer Science student at <a href="https://www.inf.elte.hu/en/" rel="nof
     <a href="https://github.com/dancs-kornel/rubiks-table"><code>Rubik's Table</code></a> - a Java-based program that tasks players with solving a two-dimensional version of the  Rubik's Cube
   </li>
   <li>
-    <a href="https://github.com/dancs-kornel/the-cartographer"><code>The Cartographer</code></a> - Position terrain map elements on a grid, aim to fulfill missions and maximize the final score
+    <a href="https://github.com/dancs-kornel/the-cartographer"><code>The Cartographer</code></a> - Position terrain map elements on a grid, aim to complete missions and maximize the final score
   </li>
 </ul>
 <hr>
@@ -18,6 +18,9 @@ I'm a Computer Science student at <a href="https://www.inf.elte.hu/en/" rel="nof
 <ul>
   <li>
     <a href="https://www.sketch.com" rel="nofollow"><code>Sketch</code></a> - An app for UI/UX designers to create and prototype with
+  </li>
+  <li>
+    <a href="https://www.malighting.com/grandma3/" rel="nofollow"><code>grandMA 3</code></a> - a powerful and intuitive platform for lighting control, offering advanced programming tools for live events
   </li>
 </ul>
 <hr>
